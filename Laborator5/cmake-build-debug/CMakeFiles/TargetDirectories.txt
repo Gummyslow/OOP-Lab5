@@ -1,0 +1,3 @@
+C:/OOP/Laborator5/cmake-build-debug/CMakeFiles/Lab4cLion.dir
+C:/OOP/Laborator5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OOP/Laborator5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
